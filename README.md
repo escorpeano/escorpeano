@@ -12,18 +12,18 @@
 - 📫 Contate-me no email: renato.jsaraujo@gmail.com
 - 😄 Pronouns: Ele/Dele
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/escorpeano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=escorpeano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escorpeano&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Renato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renato-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/39dc832647938d2d5a6b21407629e686.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <img align="center" alt="escorpeano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="escorpeano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="escorpeano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="escorpeano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="escorpeano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/39dc832647938d2d5a6b21407629e686.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br />
 </div>
 
 ##
