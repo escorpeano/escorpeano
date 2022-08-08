@@ -2,13 +2,13 @@
 
 - 💻 Atualmente trabalho com monitoramento e suporte logístico
 - 🌱 Estudo desenvolvimento front-end na Softex Pernambuco
-Módulos: 
-Lógica de Programação e Orientação para Objetos
-JavaScript
-HTML/CSS
-React
-Introdução a WebServices - Client
-Noções de UX/U
+<br>Módulos:
+<br>Lógica de Programação e Orientação para Objetos<break>
+<br>JavaScript
+<br>HTML/CSS
+<br>React
+<br>Introdução a WebServices - Client
+ <br>Noções de UX/U
 - 📫 Contate-me no email: renato.jsaraujo@gmail.com
 - 😄 Pronouns: Ele/Dele
 <div align="center">
@@ -23,7 +23,7 @@ Noções de UX/U
   <img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Renato-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/39dc832647938d2d5a6b21407629e686.gif">
+  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/39dc832647938d2d5a6b21407629e686.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 </div>
 
 ##
@@ -33,7 +33,5 @@ Noções de UX/U
   <a href = "mailto:renato.jsaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/raraujo1/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/qr/PDG4XFC5XZDFI1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
