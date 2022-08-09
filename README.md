@@ -1,14 +1,13 @@
 ## Iaw Blz? Sou o Renato Araújo😎✌️
 
-- 💻 Atualmente trabalho com monitoramento e suporte logístico
-- 🌱 Estudo desenvolvimento front-end na Softex Pernambuco
+- 💻 Estudo desenvolvimento front-end na Softex Pernambuco
 <br>Módulos:
 <br>Lógica de Programação e Orientação para Objetos<break>
 <br>JavaScript
 <br>HTML/CSS
 <br>React
 <br>Introdução a WebServices - Client
- <br>Noções de UX/U
+ <br>Noções de UX/UI
 - 📫 Contate-me no email: renato.jsaraujo@gmail.com
 - 😄 Pronouns: Ele/Dele
 <div align="center">
